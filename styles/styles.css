@@ -2,3 +2,16 @@ p {
     font-size: 30px;
     color: red;
 }
+
+#heading-one{
+    font-size: 50px;
+    color:chartreuse;
+}
+
+.text-highlight {
+    background-color: yellow;
+}
+
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
