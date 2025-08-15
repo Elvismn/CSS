@@ -1,3 +1,8 @@
+* {
+  font-family: old english text;
+  margin: 0;
+  padding: 0;
+}
 
 p {
     color: blue;
@@ -26,4 +31,8 @@ body {
     font-family: old english text;
     margin: 20px;
 
+}
+.highlight {
+    background-color: yellow;
+    padding: 5px;
 }
